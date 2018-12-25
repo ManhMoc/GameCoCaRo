@@ -1,0 +1,9 @@
+C:\Users\Dell\source\repos\GameCoCaRo\GameCoCaRo\bin\Debug\GameCoCaRo.exe.config
+C:\Users\Dell\source\repos\GameCoCaRo\GameCoCaRo\bin\Debug\GameCoCaRo.exe
+C:\Users\Dell\source\repos\GameCoCaRo\GameCoCaRo\bin\Debug\GameCoCaRo.pdb
+C:\Users\Dell\source\repos\GameCoCaRo\GameCoCaRo\obj\Debug\GameCoCaRo.csprojResolveAssemblyReference.cache
+C:\Users\Dell\source\repos\GameCoCaRo\GameCoCaRo\obj\Debug\GameCoCaRo.Properties.Resources.resources
+C:\Users\Dell\source\repos\GameCoCaRo\GameCoCaRo\obj\Debug\GameCoCaRo.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\GameCoCaRo\GameCoCaRo\obj\Debug\GameCoCaRo.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\GameCoCaRo\GameCoCaRo\obj\Debug\GameCoCaRo.exe
+C:\Users\Dell\source\repos\GameCoCaRo\GameCoCaRo\obj\Debug\GameCoCaRo.pdb
